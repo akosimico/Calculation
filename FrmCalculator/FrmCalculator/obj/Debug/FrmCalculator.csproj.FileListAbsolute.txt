@@ -1,0 +1,12 @@
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\bin\Debug\FrmCalculator.exe.config
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\bin\Debug\FrmCalculator.exe
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\bin\Debug\FrmCalculator.pdb
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\bin\Debug\Guna.UI2.dll
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\obj\Debug\FrmCalculator.csprojAssemblyReference.cache
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\obj\Debug\FrmCalculator.Form1.resources
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\obj\Debug\FrmCalculator.Properties.Resources.resources
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\obj\Debug\FrmCalculator.csproj.GenerateResource.cache
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\obj\Debug\FrmCalculator.csproj.CoreCompileInputs.cache
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\obj\Debug\FrmCalculator.csproj.CopyComplete
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\obj\Debug\FrmCalculator.exe
+C:\Users\CU223\source\repos\FrmCalculator\FrmCalculator\obj\Debug\FrmCalculator.pdb
